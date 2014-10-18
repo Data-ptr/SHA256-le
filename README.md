@@ -13,16 +13,16 @@ I did this for fun and experimentation. It is clearly NOT consumer, user, or pro
 There are production ready implementations of SHA256 from multiple sources in probably every language imaginable, use these in your code!
 
 
-This code is in no way guaranteed to work.
-There are very few, if any checks.
-No way it is near the fastest.
+This code is in no way guaranteed to work.  
+There are very few, if any checks.  
+No way it is near the fastest.  
 It is not tested for portability, do so at your own risk! (And read notes below, they might help)
 
-There are sure to be bugs....
-...and poor general coding practices
-...and poor C coding practices
-...and overflows
-...and underflows
+There are sure to be bugs...  
+...and poor general coding practices  
+...and poor C coding practices  
+...and overflows  
+...and underflows  
 ...and every other kind of flow possible
 
 ---
@@ -74,11 +74,11 @@ There are sure to be bugs....
 ### Credits
 
 #### Pseudo-code
-From Wikipedia's entry for "SHA-2"
-http://en.wikipedia.org/wiki/SHA-2#Pseudocode
-In history if for some reason it is (re)moved or changed:
+From Wikipedia's entry for "SHA-2"  
+http://en.wikipedia.org/wiki/SHA-2#Pseudocode  
+In history if for some reason it is (re)moved or changed:  
 http://en.wikipedia.org/w/index.php?title=SHA-2&diff=630108357&oldid=17306306#Pseudocode
 
 #### Binary printer (function named "p")
-Is from an answer on stack overflow
+Is from an answer on stack overflow  
 http://stackoverflow.com/a/3974138
