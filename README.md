@@ -5,7 +5,7 @@
 
 ---
 
-###Disclaimer
+### Disclaimer
 I did this for fun and experimentation. It is clearly NOT consumer, user, or probably even superuser friendly. You will only find it useful as a developer, and then only if you are really interested in the inner workings of SHA265 and just want a simple step by step example of the process that you can build, trace though, and play with in actually code.
 
 **DO NOT USE THIS CODE IN PRODUCTION,** don't even use it in your projects unless it really helps to have a skeleton implementation.
